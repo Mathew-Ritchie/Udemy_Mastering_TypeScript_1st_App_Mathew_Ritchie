@@ -1,0 +1,34 @@
+# Node modules
+/node_modules/
+
+# Parcel cache
+/.parcel-cache/
+
+# Build outputs / dist folder
+/dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# TypeScript
+*.tsbuildinfo
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Optional: Parcel temp files
+.cache/
+.cache-loader/
+
+# Optional: JetBrains IDE
+.idea/
